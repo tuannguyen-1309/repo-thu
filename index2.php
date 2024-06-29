@@ -6,6 +6,6 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Đây là file index.php dá</h1>
+  <h1>Đây là file index2.php</h1>
 </body>
 </html>
